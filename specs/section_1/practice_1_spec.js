@@ -1,4 +1,4 @@
-var collect_same_elements = require("../../practices/section_1/practice_1/practice.js");
+var collect_same_elements = require("../../practices/section_1/practice_1/practice_1.js");
 
 describe('practice-1-1', function() {
 
